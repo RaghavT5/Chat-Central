@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "624023964042",
+    "project_id": "chat-central-c53f8",
+    "storage_bucket": "chat-central-c53f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624023964042:android:e06a16e5e3fb85af936073",
+        "android_client_info": {
+          "package_name": "com.raghavt.ChatCentral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624023964042-k0dlgo62hndf2bg82m8e3tlpcthemm37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQXF_tfPPNHPKqzsqCkaKpkAcR_A_7u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624023964042-k0dlgo62hndf2bg82m8e3tlpcthemm37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624023964042:android:3705471821be70b9936073",
+        "android_client_info": {
+          "package_name": "com.raghavt.chat_central"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624023964042-k0dlgo62hndf2bg82m8e3tlpcthemm37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQXF_tfPPNHPKqzsqCkaKpkAcR_A_7u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624023964042-k0dlgo62hndf2bg82m8e3tlpcthemm37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
