@@ -49,7 +49,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                   tag: 'logo',
                   child: Container(
                     height: 130,
-                    child: Image.asset('images/logo.png'),
+                    child: Image.asset('assets/images/logo.png'),
                   ),
                 ),
                 SizedBox(
