@@ -1,6 +1,6 @@
 # chat_central
 
-A new Flutter project.
+A cross-platform messaging app built using Flutter and Firebase.
 
 ## Getting Started
 
