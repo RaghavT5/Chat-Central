@@ -1,4 +1,4 @@
-# chat_central
+# Chat Central
 
 A simple and easy to use cross-platform messaging app built with Flutter and Firebase. It works on Android, iOS, and Web.
 
