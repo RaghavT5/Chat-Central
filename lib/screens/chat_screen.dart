@@ -130,10 +130,17 @@ class MessagesStream extends StatelessWidget {
           messageBubbles.add(messageBubble);
         }
         return Expanded(
-          child: ListView(
-            reverse: true,
-            children: messageBubbles,
-            padding: EdgeInsets.symmetric(horizontal: 12, vertical: 20),
+          child: Container(
+            decoration: BoxDecoration(
+              image: DecorationImage(
+                  image: AssetImage("assets/images/cubes.png"),
+                  repeat: ImageRepeat.repeat),
+            ),
+            child: ListView(
+              reverse: true,
+              children: messageBubbles,
+              padding: EdgeInsets.symmetric(horizontal: 12, vertical: 20),
+            ),
           ),
         );
       },
