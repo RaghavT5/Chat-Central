@@ -1,16 +1,23 @@
-# chat_central
+# Chat Central
 
-A cross-platform messaging app built using Flutter and Firebase.
+A simple and easy to use cross-platform messaging app built with Flutter and Firebase. It works on Android, iOS, and Web.
 
-## Getting Started
+## Features
+- Real-time messaging with Firebase
+- User authentication with Firebase Auth
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img src="assets/screenshots/homescreen.png" width="288" height="608">
+<img src="assets/screenshots/registerScreen.png" width="288" height="608">
+<img src="assets/screenshots/chatScreen.png" width="288" height="608">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to use
+1. Install the app on your device
+2. Sign up for an account or log in with an existing one
+3. Start messaging with friends, family
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Note
+Please Note that Firebase account setup and dependency integration need to be done on the project before running the app. 
+
+Enjoy chatting!
